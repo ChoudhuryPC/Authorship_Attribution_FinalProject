@@ -2,11 +2,6 @@
 
 [logo]: https://github.com/satushsinha/Authorship-Identification/blob/main/images/Author.png "Authorship Identification of Micro-text using Capsule Network"
 # Authorship Identification of Micro-text using Capsule Network 
-### Author's
-+ chanchal Suman
-+ Ayush Raj
-+ Sriparna Saha
-+ Pushpak Bhattacharyya
 
 ### Abstract
 
